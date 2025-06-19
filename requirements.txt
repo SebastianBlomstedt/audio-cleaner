@@ -1,5 +1,9 @@
-pydub
-noisereduce
-soundfile
+whisperx @ git+https://github.com/m-bain/whisperx.git
+torch
+torchaudio
+ffmpeg-python
 numpy
-scipy
+pydub
+soundfile
+noisereduce
+tqdm
