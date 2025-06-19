@@ -7,3 +7,4 @@ pydub
 soundfile
 noisereduce
 tqdm
+python-dotenv
