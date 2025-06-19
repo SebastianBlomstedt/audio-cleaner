@@ -1,0 +1,5 @@
+pydub
+noisereduce
+soundfile
+numpy
+scipy
